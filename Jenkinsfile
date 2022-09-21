@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('stage 1') {
       steps {
-        echo 'Hello World ronit lets have some commit 3 '
+        echo 'Hello World ronit lets have some commit 4 '
       }
     }
   }
